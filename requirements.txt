@@ -1,0 +1,10 @@
+numpy
+ftfy
+scipy
+prettytable
+matplotlib
+regex
+timm
+einops
+diffusers
+transformers
