@@ -1,4 +1,4 @@
-# Better to Teach than to Give:Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance
+# Better to Teach than to Give: Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Static Badge](https://img.shields.io/badge/View-Poster-purple)](https://icml.cc/virtual/2025/poster/44281)
