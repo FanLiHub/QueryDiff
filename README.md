@@ -48,7 +48,7 @@ python tools/test.py /path/to/cfg /path/to/checkpoint --backbone /path/to/backbo
 
 ## Acknowledgment
 
-Our implementation is mainly based on following repositories. Thanks for their authors.
+This repo is built upon these previous works:
 
 * [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)
 * [Marigold](https://github.com/prs-eth/marigold)
@@ -58,12 +58,19 @@ Our implementation is mainly based on following repositories. Thanks for their a
 
 ## Citation
 
+If you find it helpful, you can cite our paper in your work.
+
 ```bibtex
 @inproceedings{li2025better,
   title={Better to Teach than to Give: Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance},
   author={Li, Fan and Wang, Xuan and Qi, Min and Zhang, Zhaoxiang and Xu, Yuelei},
-  booktitle={International conference on machine learning},
-  year={2025}
-}
+  booktitle = 	 {Proceedings of the 42nd International Conference on Machine Learning},
+  pages = 	 {36129--36139},
+  year = 	 {2025},
+  volume = 	 {267},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--19 Jul},
+  publisher =    {PMLR},
+  }
 ```
 
