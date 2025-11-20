@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Static Badge](https://img.shields.io/badge/View-Poster-purple)](https://icml.cc/virtual/2025/poster/44281)
 [![Static Badge](https://img.shields.io/badge/Pub-ICML'25-red)](https://fanlihub.github.io/QueryDiff/static/pdf/Domain_Generalized_Semantic_Segmentation_via_Agent_Queries_with_Diffusion_Model_Guidance.pdf)
-[![Static Badge](https://img.shields.io/badge/View-Project-green)]([Better to Teach than to Give: Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance](https://fanlihub.github.io/QueryDiff/))
+[![Static Badge](https://img.shields.io/badge/View-Project-green)](https://fanlihub.github.io/QueryDiff/)
 
 This repository is the official PyTorch implementation of the **ICML 2025** (**Spotlight**) paper:
 Better to Teach than to Give:Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance,
